@@ -1,2 +1,3 @@
 # Django-begginer
 django
+.enivironment
